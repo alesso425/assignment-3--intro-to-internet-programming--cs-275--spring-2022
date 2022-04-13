@@ -1,0 +1,31 @@
+* {
+  background-color: hsla(42, 70%, 94%, 1);
+}
+
+html {
+  margin: 7px;
+  color: hsla(75, 38%, 25%, 1);
+}
+
+header {
+  font-family: Arvo, sans-serif;
+  padding-top: 5px;
+  padding-bottom: 12px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+main {
+
+}
+
+table {
+
+}
+
+div {
+
+}
