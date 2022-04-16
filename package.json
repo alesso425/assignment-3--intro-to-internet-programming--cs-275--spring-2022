@@ -29,9 +29,23 @@
     "gulp-htmlmin": "^5.0.1",
     "gulp-stylelint": "^13.0.0",
     "gulp-uglify": "^3.0.2",
-    "gulp-clean-css": "^4.3.0",
+    "gulp-clean-css": "^4.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "babel": "^6.23.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-stylelint": "^13.0.0",
+    "stylelint": "^14.7.0"
   },
   "dependencies": {
-    "stylelint": "^13.13.1"
+    "browser-sync": "^2.27.9",
+    "del": "^6.0.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-html": "^4.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0"
   }
 }
